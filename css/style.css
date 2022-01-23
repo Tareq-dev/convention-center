@@ -1,0 +1,13 @@
+.best-selling {
+  height: 450px;
+  margin-top: -45px;
+  border-radius: 25px;
+}
+
+.custom-border-radius{
+     border-radius: 25px;
+}
+.bg-purple {
+  background-color: #eed8f3;
+  
+}
