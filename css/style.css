@@ -1,9 +1,14 @@
+
+
+body{
+  font-family: 'Poppins', sans-serif!important;
+}
+
 .best-selling {
   height: 450px;
   margin-top: -45px;
   border-radius: 25px;
 }
-
 .custom-border-radius{
      border-radius: 25px;
 }
@@ -13,4 +18,12 @@
 }
 .bg-booking-form{
      background-color: #F9F4FA;
+}
+
+/* custom media Qeury */
+
+@media screen and (max-width:668px){
+  .custom-carousel img{
+   height:300px;
+  }
 }
